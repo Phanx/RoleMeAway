@@ -1,0 +1,11 @@
+## Interface: 60000
+
+## Notes: Automatically sets your raid role and confirms role checks.
+## Notes-deDE: Wählt automatisch Ihre Rolle und bestätigt Rollenabfragen.
+## Notes-esES: Establecer automáticamente tu función y confirmar comprobaciones de función.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Website: https://github.com/Phanx/RoleMeAway
+
+RoleMeAway.lua
